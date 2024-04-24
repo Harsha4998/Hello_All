@@ -1,0 +1,4 @@
+n=int(input("How many times do you want to print the data:"))
+for i in range(0,n):
+    print("Hello World")
+    
